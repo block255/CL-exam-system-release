@@ -1,8 +1,8 @@
 {
     "product":  "editor",
-    "version":  "0.2.1",
-    "url":  "https://github.com/block255/CL-exam-system-release/releases/download/editor-v0.2.1/CL-Exam-System-Editor-Setup-0.2.1.exe",
-    "sha256":  "571a76f11c1a180cb8e59eedb4cf0d68a347ecc4c263c132379c8ecfb59428f7",
-    "notes":  "修检查更新的联网方式（系统证书/代理）与安装器提示文案。",
-    "publishedAt":  "2026-11-25T10:30:29+08:00"
+    "version":  "0.2.2",
+    "url":  "https://github.com/block255/CL-exam-system-release/releases/download/editor-v0.2.2/CL-Exam-System-Editor-Setup-0.2.2.exe",
+    "sha256":  "3dfec700e9ad1b2de472821fa8370a1c72a94a2dc67a835647b40e05435efd2d",
+    "notes":  "管理端入口未就绪才出现；安装器会先关闭在跑的程序再装。",
+    "publishedAt":  "2026-11-25T11:20:17+08:00"
 }
