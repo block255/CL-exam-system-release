@@ -1,8 +1,8 @@
 {
     "product":  "admin",
-    "version":  "0.1.0",
-    "url":  "https://github.com/block255/CL-exam-system-release/releases/download/server-v0.1.0/CL-Exam-System-Server-Setup-0.1.0.exe",
-    "sha256":  "8f89c5d8d5cd49402096893a73ad7e9ecbdbc4a6e90ab0a9095b30bc65db4e0a",
-    "notes":  "首个可用安装版：场次与名单、发布考试、收卷与导出；快捷方式带「\u003c安装目录\u003e\\app」参数。",
-    "publishedAt":  "2026-11-25T08:10:36+08:00"
+    "version":  "0.2.0",
+    "url":  "https://github.com/block255/CL-exam-system-release/releases/download/server-v0.2.0/CL-Exam-System-Server-Setup-0.2.0.exe",
+    "sha256":  "9f1ea4d705466cd47726f85c6f22988f71d35f4bf0a6b6e7d4a1d13aa9c9d864",
+    "notes":  "新增检查更新：顶栏入口（考试进行中置灰）。",
+    "publishedAt":  "2026-11-25T09:25:06+08:00"
 }
