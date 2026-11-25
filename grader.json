@@ -1,8 +1,8 @@
 {
     "product":  "grader",
-    "version":  "0.1.0",
-    "url":  "https://github.com/block255/CL-exam-system-release/releases/download/grader-v0.1.0/CL-Exam-System-Grader-Setup-0.1.0.exe",
-    "sha256":  "dd5f8ba8b3553995819df9f5d8e1bfbb82b75de648e7262e2ffce27b7db583b4",
-    "notes":  "首个可用安装版：安装时授予沙箱权限（授不上即中止安装）；批改、复核、导出可用。",
-    "publishedAt":  "2026-11-25T08:10:36+08:00"
+    "version":  "0.2.0",
+    "url":  "https://github.com/block255/CL-exam-system-release/releases/download/grader-v0.2.0/CL-Exam-System-Grader-Setup-0.2.0.exe",
+    "sha256":  "31efcd21c7cf2ea489f1d390dfc894c61d6ef3e122cc6fe84cd9fc97665990cf",
+    "notes":  "新增检查更新：首页版本行点开可发现并下载新版本。",
+    "publishedAt":  "2026-11-25T09:25:06+08:00"
 }
