@@ -1,8 +1,8 @@
 {
     "product":  "grader",
-    "version":  "0.2.1",
-    "url":  "https://github.com/block255/CL-exam-system-release/releases/download/grader-v0.2.1/CL-Exam-System-Grader-Setup-0.2.1.exe",
-    "sha256":  "f48a85d140786429c569eca3becee9abfaf8067f05bfb9fcd902948febb4c543",
-    "notes":  "修检查更新的联网方式（系统证书/代理）与安装器提示文案。",
-    "publishedAt":  "2026-11-25T10:30:29+08:00"
+    "version":  "0.2.2",
+    "url":  "https://github.com/block255/CL-exam-system-release/releases/download/grader-v0.2.2/CL-Exam-System-Grader-Setup-0.2.2.exe",
+    "sha256":  "e41d6b3b2caf24c829bf7ffc23e319fa1137f83ef8e3a39370146a9476d35a40",
+    "notes":  "管理端入口未就绪才出现；安装器会先关闭在跑的程序再装。",
+    "publishedAt":  "2026-11-25T11:20:17+08:00"
 }
