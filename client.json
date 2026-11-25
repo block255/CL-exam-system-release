@@ -1,8 +1,8 @@
 {
     "product":  "client",
-    "version":  "0.1.0",
-    "url":  "https://github.com/block255/CL-exam-system-release/releases/download/client-v0.1.0/CL-Exam-System-Client-Setup-0.1.0.exe",
-    "sha256":  "fa0215bb371aeb6a11081f11670d68fb07c0e3f1da2ac42a7e6a10c73751c7ce",
-    "notes":  "首个可用安装版：安装时授予沙箱权限（授不上即中止安装）、把服务器地址写进 client.json、建桌面快捷方式与卸载登记。",
-    "publishedAt":  "2026-11-25T08:10:36+08:00"
+    "version":  "0.2.0",
+    "url":  "https://github.com/block255/CL-exam-system-release/releases/download/client-v0.2.0/CL-Exam-System-Client-Setup-0.2.0.exe",
+    "sha256":  "50f5b4b0b033cb0f0d71f1961215497f79221f31beccd616f5639c30290ab544",
+    "notes":  "新增检查更新：首页版本行点开可发现、下载并校验新版本（不自动安装）。",
+    "publishedAt":  "2026-11-25T09:25:06+08:00"
 }
