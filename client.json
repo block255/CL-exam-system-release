@@ -1,8 +1,8 @@
 {
     "product":  "client",
-    "version":  "0.2.1",
-    "url":  "https://github.com/block255/CL-exam-system-release/releases/download/client-v0.2.1/CL-Exam-System-Client-Setup-0.2.1.exe",
-    "sha256":  "06b0353764e89111321a09ef238d07bf2c3eeac0ace63709d8404067b956367e",
-    "notes":  "修检查更新的联网方式（系统证书/代理）与安装器提示文案。",
-    "publishedAt":  "2026-11-25T10:30:29+08:00"
+    "version":  "0.2.2",
+    "url":  "https://github.com/block255/CL-exam-system-release/releases/download/client-v0.2.2/CL-Exam-System-Client-Setup-0.2.2.exe",
+    "sha256":  "4f72dcd5a424412841e33dbb044963243de90cf6ce0433b8505e0081b0ba600b",
+    "notes":  "管理端入口未就绪才出现；安装器会先关闭在跑的程序再装。",
+    "publishedAt":  "2026-11-25T11:20:17+08:00"
 }
