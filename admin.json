@@ -1,8 +1,8 @@
 {
     "product":  "admin",
-    "version":  "0.2.2",
-    "url":  "https://github.com/block255/CL-exam-system-release/releases/download/server-v0.2.2/CL-Exam-System-Server-Setup-0.2.2.exe",
-    "sha256":  "fb201607bdac0b3942d684a1d0762980c7a6c5358dd20d2410057df02f27c137",
-    "notes":  "管理端入口未就绪才出现；安装器会先关闭在跑的程序再装。",
-    "publishedAt":  "2026-11-25T11:20:17+08:00"
+    "version":  "0.2.3",
+    "url":  "https://github.com/block255/CL-exam-system-release/releases/download/server-v0.2.3/CL-Exam-System-Server-Setup-0.2.3.exe",
+    "sha256":  "9b5d9647272f67e5af383ed761d590ac04eb0e891ef5b8d4a16d220a655e4a67",
+    "notes":  "修服务端自报版本（原来写死 0.1.0，检查更新会一直提示有新版）。",
+    "publishedAt":  "2026-11-25T11:28:57+08:00"
 }
