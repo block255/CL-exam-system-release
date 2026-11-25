@@ -1,8 +1,8 @@
 {
     "product":  "admin",
-    "version":  "0.2.0",
-    "url":  "https://github.com/block255/CL-exam-system-release/releases/download/server-v0.2.0/CL-Exam-System-Server-Setup-0.2.0.exe",
-    "sha256":  "9f1ea4d705466cd47726f85c6f22988f71d35f4bf0a6b6e7d4a1d13aa9c9d864",
-    "notes":  "新增检查更新：顶栏入口（考试进行中置灰）。",
-    "publishedAt":  "2026-11-25T09:25:06+08:00"
+    "version":  "0.2.1",
+    "url":  "https://github.com/block255/CL-exam-system-release/releases/download/server-v0.2.1/CL-Exam-System-Server-Setup-0.2.1.exe",
+    "sha256":  "17d1106cded82c76991a6a163d44e42af5c9b2f3bb35fcf25a55dddc38b950c0",
+    "notes":  "修检查更新的联网方式（系统证书/代理）与安装器提示文案。",
+    "publishedAt":  "2026-11-25T10:30:29+08:00"
 }
