@@ -1,8 +1,8 @@
 {
     "product":  "client",
-    "version":  "0.2.2",
-    "url":  "https://github.com/block255/CL-exam-system-release/releases/download/client-v0.2.2/CL-Exam-System-Client-Setup-0.2.2.exe",
-    "sha256":  "4f72dcd5a424412841e33dbb044963243de90cf6ce0433b8505e0081b0ba600b",
-    "notes":  "管理端入口未就绪才出现；安装器会先关闭在跑的程序再装。",
-    "publishedAt":  "2026-11-25T11:20:17+08:00"
+    "version":  "0.2.4",
+    "url":  "https://github.com/block255/CL-exam-system-release/releases/download/client-v0.2.4/CL-Exam-System-Client-Setup-0.2.4.exe",
+    "sha256":  "b8b6d1c8bcf8d533671c1a5d326bb47c60ac9e702b946bc89b29308a704719c0",
+    "notes":  "修复：干净机器上判题沙箱不可用（编译/运行起不了容器）——根因是 profile 存在性判据；另修公告横幅压崩答题页（改为蓝色通知、可收起、老师清空即撤下）。",
+    "publishedAt":  "2026-11-26T08:10:10+08:00"
 }
