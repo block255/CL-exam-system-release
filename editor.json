@@ -1,8 +1,8 @@
 {
     "product":  "editor",
-    "version":  "0.2.2",
-    "url":  "https://github.com/block255/CL-exam-system-release/releases/download/editor-v0.2.2/CL-Exam-System-Editor-Setup-0.2.2.exe",
-    "sha256":  "3dfec700e9ad1b2de472821fa8370a1c72a94a2dc67a835647b40e05435efd2d",
-    "notes":  "管理端入口未就绪才出现；安装器会先关闭在跑的程序再装。",
-    "publishedAt":  "2026-11-25T11:20:17+08:00"
+    "version":  "0.2.4",
+    "url":  "https://github.com/block255/CL-exam-system-release/releases/download/editor-v0.2.4/CL-Exam-System-Editor-Setup-0.2.4.exe",
+    "sha256":  "f9f0a9ed17d6c22f748182a0376c9379530eac195f68d6ab2a7d7850840b00c7",
+    "notes":  "本版与其它产品同号；编辑器无功能改动（随沙箱与界面修复一起重打）。",
+    "publishedAt":  "2026-11-26T08:11:00+08:00"
 }
