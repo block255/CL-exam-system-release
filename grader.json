@@ -1,8 +1,8 @@
 {
     "product":  "grader",
-    "version":  "0.2.2",
-    "url":  "https://github.com/block255/CL-exam-system-release/releases/download/grader-v0.2.2/CL-Exam-System-Grader-Setup-0.2.2.exe",
-    "sha256":  "e41d6b3b2caf24c829bf7ffc23e319fa1137f83ef8e3a39370146a9476d35a40",
-    "notes":  "管理端入口未就绪才出现；安装器会先关闭在跑的程序再装。",
-    "publishedAt":  "2026-11-25T11:20:17+08:00"
+    "version":  "0.2.4",
+    "url":  "https://github.com/block255/CL-exam-system-release/releases/download/grader-v0.2.4/CL-Exam-System-Grader-Setup-0.2.4.exe",
+    "sha256":  "e9014adba79f334d99f20c81dfa2b1585f7c5c51e0bbd89087333e55964e1893",
+    "notes":  "修复：干净机器上预检误报「容器写不了自己的 TEMP」（根因同上是 profile 存在性判据），现在能建 profile、正常批改；安装器失败提示按原因区分。",
+    "publishedAt":  "2026-11-26T08:10:34+08:00"
 }
