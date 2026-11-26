@@ -1,0 +1,8 @@
+{
+    "product":  "server",
+    "version":  "0.2.4",
+    "url":  "https://github.com/block255/CL-exam-system-release/releases/download/server-v0.2.4/CL-Exam-System-Server-Setup-0.2.4.exe",
+    "sha256":  "384c195c290e8cfda06fde6cc7f56c5141bb7108f0205cee6717f75fe06604ee",
+    "notes":  "本版与其它产品同号；服务端无功能改动，管理端场次页的试卷卡片不再压住相邻两行。",
+    "publishedAt":  "2026-11-26T08:11:19+08:00"
+}
